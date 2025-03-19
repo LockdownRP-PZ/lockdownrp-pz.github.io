@@ -1,5 +1,6 @@
 - **Wiki**
 - [Introduction](introduction)
+- [Ethos](lockdown-ethos)
 - [Rules](rules/rules)
 - [Guides](guides/getting-started)
 - **Extras**
