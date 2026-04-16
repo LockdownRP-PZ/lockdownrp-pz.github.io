@@ -9,7 +9,7 @@
 
 - *The themes of this server’s story and Project Zomboid as a game include: Alcohol, Violence, Blood and Gore, Drug References, and Strong Language.*
 
-- *This is an online community and we will do our absolute best to make sure people feel safe and welcome in our community. However, we are not therapists, teachers, or any of the like. We are not accountable for the interactions you experience online. This goes for everyone. If you are being harassed, bullied, or in general do not feel safe because of something or someone in the community, please do not hesitate to reach out to us. You are precious to us and we will do our best to prevent or mitigate harm that may come to you.*
+- *This is an online community, and we will do our absolute best to make sure people feel safe and welcome in our community. However, we are not therapists, teachers, or any of the like. We are not accountable for the interactions you experience online. This goes for everyone. If you are being harassed, bullied, or in general do not feel safe because of something or someone in the community, please do not hesitate to reach out to us. You are precious to us, and we will do our best to prevent or mitigate harm that may come to you.*
 
 - *We aim to give all players a welcoming, friendly experience, which we believe our rules reflect. If you are unsure of any rules, please don't hesitate to ask in the :speech_balloon:support section.*
 
@@ -66,7 +66,7 @@
 - Examples:
     - Shooting at a random people you see
     - Walking up to someone and using one line sentences such as “Your valuables or your life”
-    - Indiscriminantly running people over with vehicles
+    - Indiscriminately running people over with vehicles
     - Randomly causing fires
     - Using a 3-2-1 countdown and then attacking
 
@@ -122,7 +122,7 @@
 ### 2.2 Roleplay a character of your own design.
 
 - You may not roleplay or reference being a real person or character from any media, from modern day or from history.
-    - You may take inspiration from media, modern day or history but you cannot play as them. For example, you could take inspiration from “Rick Grimes” from The Walking Dead (for example, by making a cop character who was separated from his family and seeks to find them), but you cannot play a character called "Nick Graves" who is fundamentally the same as Rick Grimes.
+    - You may take inspiration from media, modern day or history, but you cannot play as them. For example, you could take inspiration from “Rick Grimes” from The Walking Dead (for example, by making a cop character who was separated from his family and seeks to find them), but you cannot play a character called "Nick Graves" who is fundamentally the same as Rick Grimes.
 - You may not use AI writing for any part of your character's story.
 
 
@@ -136,7 +136,7 @@
 ### 2.4 Character archetype limits.
 
 - Certain character archetypes are subject to rigorous scrutiny. The idea of this rule is to discourage common and poorly-done character archetypes, encouraging variety and uniqueness among characters.
-- Limited-archetype characters will not be accepted unless the applicant can make the character unique outside of their profession. The likelihood this type of character being accepted is low. Applicants may attempt to apply for a limited-archetype character once per season/anthology. If denied, they will be asked to submit a different character with a different background/profession on their next attempted application.
+- Limited-archetype characters will not be accepted unless the applicant can make the character unique outside their profession. The likelihood this type of character being accepted is low. Applicants may attempt to apply for a limited-archetype character once per season/anthology. If denied, they will be asked to submit a different character with a different background/profession on their next attempted application.
     - After playing a non-limited-archetype character, a user may apply for a limited-archetype character again.
 - Limited archetypes:
     - Military (soldiers, spies, commanders)
@@ -189,7 +189,7 @@
 - You cannot retrieve your items from a previous character until 2 real life days have passed.
 - We can’t stop you from rejoining your old faction, but you must not metagame to join the faction. You must discover it in-character.
 - If your faction happened to hold onto your previous character's belongings and happened to pass it on to you, that is fine.
-- The same applies to independant characters. If not within a faction, you must still wait 2 real life days before recovering your items.
+- The same applies to independent characters. If not within a faction, you must still wait 2 real life days before recovering your items.
 - You cannot leave a will promising all your items and/or safehouse to your next character.
 
 
@@ -232,14 +232,14 @@
 
 - Each season of Lockdown features a clearly marked playable area. Players may not leave the area unless it is for an event.
 - Anyone caught sneaking out of the map to go and loot somewhere outside of it will be teleported back, and the loot will be confiscated. We check the logs often to stop such offenses.
-- Violations will be met with a temporarily ban of 48 hours.
+- Violations will be met with a temporary ban of 48 hours.
 - The boundaries are marked by checkpoints and rivers. Do NOT cross them.
 
 
 ### 2.11 Romantic relationships are allowed, within reason.
 
 - Marriages, courting, dating, cohabiting, etc are all acceptable forms of roleplay.
-- Gender is no barrior to romantic relationships. Same-sex relationships are acceptable.
+- Gender is no barrier to romantic relationships. Same-sex relationships are acceptable.
 - ERP (erotic roleplay) must NOT take place on the server. We have a zero tolerance policy on this.
 - Any player who is uncomfortable with a character's advances or feels another player is being inappropriate may come forward. We encourage you to submit a ticket with screenshots of the conversation. It will be handled discreetly and professionally.
 
@@ -249,8 +249,8 @@
 - This rule exists to preserve the map's aesthetic and allow players the opportunity to obtain furniture for decoration.
 - You may take furniture for decoration in your own house.
 - If you need wood for carpentry, it is more efficient to use an axe to chop trees and a saw to make logs into planks. Trees are also a renewable resource.
-- If this rule is violated, we will remove the XP gain and you will be issued a 24 hour ban.
-- Inside of your own safehouse you may do as you wish with your furniture.
+- If this rule is violated, we will remove the XP gain, and you will be issued a 24-hour ban.
+- Inside your own safehouse you may do as you wish with your furniture.
 - Fences are not part of this and can be deconstructed, provided they are not safehouse claims or world boundaries.
 
 
@@ -271,14 +271,14 @@
 
 - This rule exists to ensure that new players won't find it too difficult to obtain a usable vehicle. We want all of our players to have access to reasonable transportation.
 - If a vehicle is over 35% condition, you may not salvage, dismantle, or take engine parts from it.
-    - Engine parts can be crafted thanks to our modlist. Seek out skilled craftspeople (players or NPCs) for help if you have trouble getting engine parts.
+    - Engine parts can be crafted thanks to our mod list. Seek out skilled craftspeople (players or NPCs) for help if you have trouble getting engine parts.
 - You may take individual components (aside from the engine) from a vehicle, but do not leave a vehicle with more than three (3) necessary parts missing.
     - Necessary parts include: driver's seat, gas tank, battery, tires, brakes, and suspension.
     - For example, you may take the battery and two tires. Alternatively, you may take the driver's seat, a suspension, and the gas tank.
 - When training mechanics, do not ruin a vehicle's parts by attempting to remove them with low skill level.
     - At low levels, the battery, radio, head/tail lights, and tires can be removed with no chance of damage.
     - You may make attempts to remove a part beyond your skill level, but do not do so excessively.
-- Violations of this rule are identified as a form of griefing and will be punished with a 24 hour ban.
+- Violations of this rule are identified as a form of griefing and will be punished with a 24-hour ban.
 - Feel free to open a support ticket and ask questions if you're in doubt.
 
 
@@ -287,7 +287,7 @@
 - If your character is a local, they may have some prior information on the world, such as factions, antagonists, and major events.
 - This does not invalidate [rule 1.1 - No Metagaming](#11-no-metagaming).
 - This does not allow you to know the location of your previous characters loot after their death. This is classed as Meta-gaming and will be dealt with as such.
-- This does not allow you to know precise locations of bases. Your character may know the general area but not the exact location. I.E: Bob may know “The Outcasts” are based in Verdict Heights, but not the exact building. You must discover this through Organic Roleplaying.
+- This does not allow you to know precise locations of bases. Your character may know the general area but not the exact location. I.E.: Bob may know “The Outcasts” are based in Verdict Heights, but not the exact building. You must discover this through Organic Roleplaying.
 - Players are not allowed to use the :zombie:lost-to-the-hordes (LTTH) channel as in-game information.
     - Once your character has found out that a character has died (for example by finding the body or being informed by another character), then their loot is fair game.
     - The staff team may remove the claim of a dead character's property, indicating that the property is abandoned.
@@ -310,7 +310,7 @@
   0 = 5; 1 = 7; 2 = 9; 3 = 10;
 - Weapons skills are capped similarly, but to a lesser extent:
   0 = 7; 1 = 9; 2 = 10;
-- Agility skills (sprint, sneak, nimble, lightfooted) are capped to an even lesser extent:
+- Agility skills (sprint, sneak, nimble, light-footed) are capped to an even lesser extent:
   0 = 9; 1 = 10
 
 
@@ -479,7 +479,7 @@ Keep in mind the [General Server Rules](#general-server-rules) when considering 
 - If PvP consent is declined, the requestor must offer a different way out of the situation, such as an ultimatum.
     - For example: "Drop your weapon and go," or "Never come back here again."
     - Refusal of PvP consent does not mean the refuser must acquiesce to all requests. Keep it reasonable.
-        - For example, this does not give you free reign to take a character hostage, exchange them with another, or threaten to kill the hostage unless demands are met.
+        - For example, this does not give you free rein to take a character hostage, exchange them with another, or threaten to kill the hostage unless demands are met.
 - NPCs played by staff are also subject to the consent rule.
 - In a PvP situation involving multiple players where not everyone consents, the non-consenting players must move away from the PvP area.
 - Do not attempt to join into the middle of a PvP scenario. Project Zomboid PvP is often quick and deadly.
@@ -552,7 +552,7 @@ Text based combat is allowed, provided the following rules are observed.
 - To claim a safehouse, you must place a piece of paper, journal, [roleplay descriptor](https://steamcommunity.com/sharedfiles/filedetails/?id=2897228813&searchtext=descriptor) or notepad at each entrance which is accessible to your building.
 - The in-game safehouse system is disabled. It causes more problems than it solves, so we rely on these safehouse rules.
 - The claim note must include the safehouse owner's character name(s).
-    - Please write each owner/user of the safehouse on the note. This is to prevent any offline raiding and so we know who has access to your items when you are not online.
+    - Please write each owner/user of the safehouse on the note. This is to prevent any offline raiding and lets us know who has access to your items when you are not online.
     - Claims using the user's Discord name are not valid.
     - Use a 'Grey' roleplay descriptor for safehouse claims.
 
@@ -660,4 +660,4 @@ Text based combat is allowed, provided the following rules are observed.
 
 ### 7.2 Injuries during events
 
-- Event staff will not be held responsible for injuries caused indirectly by staff during events (E.G a spawned zombie scratching the player character).
+- Event staff will not be held responsible for injuries caused indirectly by staff during events (E.G. a spawned zombie scratching the player character).
