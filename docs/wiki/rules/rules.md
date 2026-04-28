@@ -28,12 +28,12 @@
 
 ### 1.1 No Metagaming
 
-- Metagaming is intentionally revealing or using in-character information through out-of-character avenues.
+- Metagaming is revealing or using in-character information through out-of-character avenues.
 - Metagaming includes but is not limited to:
     - Knowing a character’s name because you can see it in chat logs.
     - Knowing the location and names of characters because your previous character knew them.
     - Using/sharing screenshots (or Internet media) of in-game locations to know where to attack an opponent's base.
-    - Coordinating with other players out-of-character (such as in a voice chat) to reach a certain resolution in an in-character situation.
+    - Coordinating with other players out-of-character (such as in a voice chat) about an in-character situation.
 
 ### 1.2 No Powergaming
 
@@ -90,7 +90,7 @@
 
 ### 1.7 No Trolling/Ragebaiting
 
-- Troll behavior, such as griefing, deliberately causing issues, provoking reactions out of character or in character, are not allowed.
+- Troll behavior, such as griefing, deliberately causing issues, or provoking out-of-character reactions, is not allowed.
 
 
 ### 1.8 No perverse themes
@@ -123,14 +123,14 @@
 
 - You may not roleplay or reference being a real person or character from any media, from modern day or from history.
     - You may take inspiration from media, modern day or history, but you cannot play as them. For example, you could take inspiration from “Rick Grimes” from The Walking Dead (for example, by making a cop character who was separated from his family and seeks to find them), but you cannot play a character called "Nick Graves" who is fundamentally the same as Rick Grimes.
-- You may not use AI writing for any part of your character's story.
+- You may not use AI-generated writing for any part of your character's story.
 
 
 ### 2.3 You may have only one active character at a time.
 
 - Players are limited to one active player character at a time.
 - If your character dies or retires, you can apply for a new character.
-- You may not bring back a retired character.
+- You may not bring back a retired character. Occasional allowances may be made for cameos.
 
 
 ### 2.4 Character archetype limits.
@@ -142,16 +142,22 @@
     - Military (soldiers, spies, commanders)
     - Domestic Security (police, FBI, CIA)
     - Mercenary (bounty hunter, freelance security)
-- These are general archetypes. Characters may fall under this rule depending on application handler discretion.
+- These are general archetypes. Characters may fall under this rule at application handler discretion.
 
 
 ### 2.5 Use the proper channels for in-character communication.
 
-- Discord (private or sever) messages do not count as private walkie-talkie channels unless stated otherwise.
-- We have a public Discord channel for in-character public radio broadcasts. You can use it to find other characters or converse with them. There are also faction channels which registered factions can use for in-character communication on a faction-member-only radio frequency.
-- Use in-game radios to communicate with other characters across distances.
-    - Speak to other characters and decide on a radio frequency to use.
+- Aside from some notable exceptions, Discord (private or sever) messages are not to be used for in-character communication.
+- We have several Discord channels for in-character communication.
+    - #ic-radio, for public radio broadcasts. You can use it to find other characters or converse with them. 
+    - #ic-looking-for-rp, for environmental signals about available RP locations.
+    - #ic-message-boards, for public postings in a designated location.
+    - There are also faction radio channels which registered factions can use for in-character communication on a faction-member-only radio frequency.
+- You may use in-game radios to communicate with other characters across distances.
+    - Speak to other characters in person and decide on a radio frequency to use.
     - We have a mod that allows your radio to continue receiving and transmitting while inside containers or attached to your belt. Take advantage of that.
+- You may use in-game phones via the Cell Phones mod to send text messages or make calls.
+- Using unsupported methods to communicate in-character information may be considered metagaming.
 
 
 ### 2.6 Do not abuse game mechanics.
@@ -172,7 +178,7 @@
 
 ### 2.8 Death is the end of your character.
 
-- If your character dies legitimately to game mechanics (falling, infection, bleeding), you are dead and will be dropped from the whitelist.
+- If your character dies legitimately to game mechanics (falling, infection, bleeding), they are dead and will be dropped from the whitelist.
 - You will have to start over with a new character. You will need to submit a whole new application.
 
 
@@ -181,13 +187,13 @@
 - Newly created characters have a 72 in-game hour grace period.
 - If you die during this time, you do not need to submit a new character.
 - It is up to you to get your skills and items back; we will not restore them.
-- We offer 1 revive and 3 heals during this grace period.
+- We offer up to 1 revive and 3 heals during this grace period.
 
 
 #### 2.8.2 Reclaiming items from a previous character
 
 - You cannot retrieve your items from a previous character until 2 real life days have passed.
-- We can’t stop you from rejoining your old faction, but you must not metagame to join the faction. You must discover it in-character.
+- You may rejoin your old faction, but you must not metagame to join the faction. You must discover it in-character.
 - If your faction happened to hold onto your previous character's belongings and happened to pass it on to you, that is fine.
 - The same applies to independent characters. If not within a faction, you must still wait 2 real life days before recovering your items.
 - You cannot leave a will promising all your items and/or safehouse to your next character.
@@ -198,7 +204,7 @@
 - If you died/became infected/injured because of a glitch or rule-breaking behavior committed upon you by someone, your character will be restored to as it was prior to the incident.
 - Let us know by opening a support ticket.
 - You *must* provide video evidence of what happened.
-    - Record your gameplay sessions using software such as NVIDIA's ShadowPlay feature, Medal, or OutPlayed.
+    - Record your gameplay sessions using software such as Steam recordings, NVIDIA's ShadowPlay feature, Medal, or OutPlayed.
     - Check out this announcement for more info: https://discord.com/channels/929553323613368413/929562126249500743/1120686211984535582
     - We cannot issue a revive or heal without direct video evidence of the incident.
 - If you are revived or healed, you must roleplay the incident as a “near miss.”
@@ -214,14 +220,14 @@
 ### 2.9 Mark your POIs
 
 - A POI (Point of Interest) is a location with roleplay significance.
-- Use assets available to you to bring attention to a POI you have created such as pieces of paper, journals and books, or renamed items.
+- Use assets available to you to bring attention to a POI you have created such as pieces of paper, journals, books, or renamed items.
 - Follow this roleplay descriptor color guide to choose what color descriptors to use:
 
 - Staff colours only:
     - Red (Danger Warning) 
     - Pink (Event-Team POI)
     - Yellow (OOC Admin Notice) 
-     -Blue (Community Lot)
+    - Blue (Community Lot)
 - Player colours:
     - Black (Faction Base Claim)
     - Grey (Safehouse, Vehicle Claims) 
@@ -238,7 +244,7 @@
 
 ### 2.11 Romantic relationships are allowed, within reason.
 
-- Marriages, courting, dating, cohabiting, etc are all acceptable forms of roleplay.
+- Marriages, courting, dating, cohabiting, etc. are all acceptable forms of roleplay.
 - Gender is no barrier to romantic relationships. Same-sex relationships are acceptable.
 - ERP (erotic roleplay) must NOT take place on the server. We have a zero tolerance policy on this.
 - Any player who is uncomfortable with a character's advances or feels another player is being inappropriate may come forward. We encourage you to submit a ticket with screenshots of the conversation. It will be handled discreetly and professionally.
@@ -250,13 +256,13 @@
 - You may take furniture for decoration in your own house.
 - If you need wood for carpentry, it is more efficient to use an axe to chop trees and a saw to make logs into planks. Trees are also a renewable resource.
 - If this rule is violated, we will remove the XP gain, and you will be issued a 24-hour ban.
-- Inside your own safehouse you may do as you wish with your furniture.
+- Inside your own safehouse, you may do as you wish with your furniture.
 - Fences are not part of this and can be deconstructed, provided they are not safehouse claims or world boundaries.
 
 
 ### 2.13 Do not remove lootable containers from high-value loot spots.
 
-- Loot can respawn in world-generated containers. This rule exists to give players the opportunity to loot commonly-targeted buildings.
+- Depending on per-season settings, loot can respawn in world-generated containers. This rule exists to give players the opportunity to loot commonly-targeted buildings.
 - High-value loot spots:
     - Gun stores / army surpluses
     - Police departments
@@ -272,9 +278,9 @@
 - This rule exists to ensure that new players won't find it too difficult to obtain a usable vehicle. We want all of our players to have access to reasonable transportation.
 - If a vehicle is over 35% condition, you may not salvage, dismantle, or take engine parts from it.
     - Engine parts can be crafted thanks to our mod list. Seek out skilled craftspeople (players or NPCs) for help if you have trouble getting engine parts.
-- You may take individual components (aside from the engine) from a vehicle, but do not leave a vehicle with more than three (3) necessary parts missing.
+- You may take individual components (aside from the engine) from a vehicle, but do not take parts from a vehicle with more than three (3) necessary parts missing.
     - Necessary parts include: driver's seat, gas tank, battery, tires, brakes, and suspension.
-    - For example, you may take the battery and two tires. Alternatively, you may take the driver's seat, a suspension, and the gas tank.
+    - For example, if a vehicle is missing its driver's seat and a tire, you may take only one (1) necessary part from it.
 - When training mechanics, do not ruin a vehicle's parts by attempting to remove them with low skill level.
     - At low levels, the battery, radio, head/tail lights, and tires can be removed with no chance of damage.
     - You may make attempts to remove a part beyond your skill level, but do not do so excessively.
@@ -286,28 +292,29 @@
 
 - If your character is a local, they may have some prior information on the world, such as factions, antagonists, and major events.
 - This does not invalidate [rule 1.1 - No Metagaming](#11-no-metagaming).
-- This does not allow you to know the location of your previous characters loot after their death. This is classed as Meta-gaming and will be dealt with as such.
 - This does not allow you to know precise locations of bases. Your character may know the general area but not the exact location. I.E.: Bob may know “The Outcasts” are based in Verdict Heights, but not the exact building. You must discover this through Organic Roleplaying.
 - Players are not allowed to use the :zombie:lost-to-the-hordes (LTTH) channel as in-game information.
-    - Once your character has found out that a character has died (for example by finding the body or being informed by another character), then their loot is fair game.
-    - The staff team may remove the claim of a dead character's property, indicating that the property is abandoned.
+    - If your character has legitimately found out that a character has died (for example by finding the body or being informed by another character), then their loot is fair game.
+    - The staff team may remove the claim notes from a dead character's property, indicating that the property is abandoned.
 
 
 ### 2.16 Roleplay your chosen PZ traits.
 
 - When creating your character, pick traits that relate to your character. For example:
     - If you choose the cowardly trait, roleplay being cowardly.
-    - If you choose the ADHD trait, roleplay the effects of ADHD on your character.
+    - If you choose the smoker trait, roleplay your need to smoke or the effects of withdrawal.
 - You're not required to roleplay every trait you choose or to only choose traits that are part of your backstory. Keep your character in mind and choose traits that make sense.
+- The names of traits aren't considered literal. The effects (benefits and drawbacks) of a trait are what's important. 
+    - For example, "Former Scout" gives you +1 first aid and +1 foraging. You can choose that trait if it suits your character, even if your character wasn't necessarily in the scouts. Maybe they have those stat boosts for a different reason, like they spent a lot of time camping with their dad.
 - If you are caught with an excessive amount of traits you are not roleplaying, you will have your traits rebalanced by the moderator team and will be issued a warning.
 - Creating an optimized build without regard to your written character is a breach of rule [1.1 - No Metagaming](#11-no-metagaming).
 
 
 ### 2.17 Skill limiter.
 
-- To prevent overpowered builds, we have a skill limiter in place. Your starting skill level determines the maximum skill levels you will be able to reach.
+- To prevent overpowered builds and promote specialization and teamwork, we have a skill limiter in place. Your starting skill level determines the maximum skill levels you will be able to reach.
 - Crafting and survival skills are capped depending on your starting points:
-  0 = 5; 1 = 7; 2 = 9; 3 = 10;
+  0 = 3; 1 = 5; 2 = 7; 3 = 10;
 - Weapons skills are capped similarly, but to a lesser extent:
   0 = 7; 1 = 9; 2 = 10;
 - Agility skills (sprint, sneak, nimble, light-footed) are capped to an even lesser extent:
@@ -362,8 +369,8 @@ To use your *close-call* token, open a 📋support ticket explaining that you wo
 
 ### 3.2 Do not destroy any items or architecture
 
-- You are not permitted to destroy any items in the safehouse. This included destroying locked containers to force loot to drop.
-- To gain entry and legally loot a safehouse, the safehouse must be unlocked. You are not permitted to break down a door, wall or barricade. You must find a legitimate way in.
+- You are not permitted to destroy any items, walls, or structures in the safehouse. This included destroying locked containers to force loot to drop.
+- To gain entry and legally loot a safehouse, you must find a way in without causing destruction. You may not break down a door, wall or barricade. 
     - An example of an illegal safehouse raiding techniques is using zombies to break down parts of a safehouse.
     - Any form of damage to a safehouse by a player will be classified as griefing and will be dealt with as such.
 
@@ -382,12 +389,12 @@ To use your *close-call* token, open a 📋support ticket explaining that you wo
 
 ### 3.6 Do not steal from a player while they are at an event.
 
-- Safehouse and vehicle claims are protected during events.
+- Safehouse and vehicle claims are considered protected during events.
 - If a player is at an event, they cannot be stolen from in any capacity.
 
 ### 3.7 Leave a clue
 
-- When a player has stolen from another player, whether at their safehouse, their vehicle, or elsewhere, they must leave a clue behind give the victim a lead on the culprit.
+- When a player has stolen from another player, whether at their safehouse, their vehicle, or elsewhere, they must leave a clue behind to give the victim a lead on the culprit.
 - This rule exists to ensure players roleplay criminal interactions. We are a story driven server, and thefts are expected to result in roleplay.
 - Clues may be done in the form of a written note and/or items.
 - Leave stronger clues for larger thefts.
@@ -457,7 +464,7 @@ To use your *close-call* token, open a 📋support ticket explaining that you wo
 
 ## PVP RULES
 
-To initiate PVP, players must follow a certain procedure. We are not a PVP based server, however we are open to it as long as it suits your character's narrative. For example, a pacifist would not go around with a shotgun threatening others to incite aggression.
+To initiate PVP, players must follow a certain procedure. We are not a PVP based server, but we are open to it as long as it suits your character's narrative. For example, a pacifist would not go around with a shotgun threatening others to incite aggression.
 
 Keep in mind the [General Server Rules](#general-server-rules) when considering a PvP engagement.
 - No Metagaming
@@ -481,16 +488,16 @@ Keep in mind the [General Server Rules](#general-server-rules) when considering 
     - Refusal of PvP consent does not mean the refuser must acquiesce to all requests. Keep it reasonable.
         - For example, this does not give you free rein to take a character hostage, exchange them with another, or threaten to kill the hostage unless demands are met.
 - NPCs played by staff are also subject to the consent rule.
-- In a PvP situation involving multiple players where not everyone consents, the non-consenting players must move away from the PvP area.
+- In a PvP situation involving multiple players where not everyone consents, the non-consenting players must move away from the PvP area. They may not participate, even indirectly.
 - Do not attempt to join into the middle of a PvP scenario. Project Zomboid PvP is often quick and deadly.
 
 ### 4.3 Toggle PvP on before PvP starts.
 
 - In Project Zomboid, any character with PvP enabled on can hit or be hit by any other player, regardless of other players' PvP setting.
 - All players who consent to PvP must toggle PVP on.
-    - EXCEPTION: Some situations call for only one side to enable PvP to avoid friendly fire.
-        - If a PvP scenario involves many players versus one, use /looc to decide that the 1 solo person will enable PvP.
-        - If a group of NPCs played by staff are involved, only the staff NPCs will enable PvP. This avoids players accidentally shooting each other.
+    - EXCEPTIONS: Some situations call for only one side to enable PvP to avoid friendly fire.
+        - If a PvP scenario involves many players versus one or few, use /looc to confirm only the less populated side will enable PvP.
+        - If NPCs played by staff are opposing the players, only the staff NPCs will enable PvP. This avoids players accidentally shooting each other.
 
 ### 4.4 Explosives are disallowed in PvP.
 
@@ -503,9 +510,12 @@ Text based combat is allowed, provided the following rules are observed.
 
 ### 4.5 Take turns.
 
-- Only 1 action per line of text.
-- Actions cannot be chained in a single turn.
-- For example, you cannot have a script written and copy and paste actions in as quick as possible. This will be counted as powergaming.
+- You must allow your opponent(s) the opportunity to respond to each of your actions.
+- When you take a turn, be mindful of how long it would take your character to perform your chosen action, and don't let it take too long.
+    - As a rule of thumb, each action should take no more than 6 seconds of movement.
+    - For example, here's a turn that takes too much time and leaves little room for a response: "/me fires six shots at Jim, then reloads his pistol while ducking back into cover."
+        - Here's an alternative that's more fair: "/me pops up over the barrier, aims, and fires three shots at Jim."
+- Feel free to add dialogue to your actions, but no more than a line or two.
 
 ### 4.6 Do not force an outcome.
 
@@ -629,7 +639,6 @@ Text based combat is allowed, provided the following rules are observed.
 ### 6.7 Safehouse raiding another faction is allowed.
 
 - If you are raiding a rival faction safehouse, normal theft rules apply. You cannot break down any of the barricades/doors.
-- In a faction v faction PVP scenario, you are allowed to break down or remove player made barricades/doors.
 - Each player is limited to 30 lbs of weight. You can now use up to 5 players for a faction V faction safehouse raid.
 - Offline raiding is still prohibited. At least 1 member of a faction must be online to commence the safehouse raid.
 
@@ -640,7 +649,7 @@ Text based combat is allowed, provided the following rules are observed.
 - Each player may have a personal claim within a faction safehouse.
     - For example, if your faction is based out of an apartment block, you may claim a room in that block.
     - A faction member's personal claim is treated separately from the faction safehouse (it may not be stolen from if the member is offline).
-    - If you have a personal claim within your faction safehouse, it counts as one of your personal safehouses.
+    - If you have a personal claim within your faction safehouse, it counts as a personal safehouse.
 
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -651,13 +660,6 @@ Text based combat is allowed, provided the following rules are observed.
     <img src="docs/assets/img/BanquetTable.png" alt="Lockdown RP" title="Lockdown RP">
 </figure>
 
-### 7.1 PvP with NPCs
+### 7.1 Injuries during events
 
-- Regular PvP consent rules apply.
-    - That is, consent must be gained except in Open Combat zones.
-- If PvP occurs against NPCs, only staff NPCs will have PVP enabled.
-    - This is to enable players to engage in PvP without accidentally injuring other players.
-
-### 7.2 Injuries during events
-
-- Event staff will not be held responsible for injuries caused indirectly by staff during events (E.G. a spawned zombie scratching the player character).
+- Event staff will not be held responsible for injuries caused indirectly by staff during events (E.G. a spawned zombie scratching a player character).
