@@ -210,11 +210,40 @@
 - If you are revived or healed, you must roleplay the incident as a “near miss.”
 
 
-### 2.8.4 Evading infection death via logout
+#### 2.8.4 Close-Call Token
+
+Players begin each season/anthology with a *"close-call token"*. Players may turn in their token to revive their character for any reason.
+
+- The token can be used once per season/anthology, per player - meaning that if you used the token on one character, it can't be used on another during the same season/anthology.
+- The token grants a revive without requiring proof of the cause of death.
+- The token does not have a time limit. It can be used at any point during the season/anthology.
+- Tokens do not carry over to following seasons/anthologies. You cannot save a token for use in a later season/anthology.
+- Players may not gift their close call token to another player.
+- The death must be roleplayed as a close call by the character - meaning your character *almost* died, but for some reason they didn't.
+- The character will receive wounds compatible with the cause of death to simulate what they went through.
+- If the token is used because of a PvP related death...
+    - The killer and the victim must agree Out-Of-Character on the use of the token revive. The killer may veto the revive, in which case the token will not be used.
+    - The victim cannot retaliate against the killer for 48 real-life hours.
+
+To use your *close-call* token, open a 📋support ticket explaining that you would like to do so. Provide the following information:
+
+- Your character's full name.
+- A description of the cause of death.
+- Your idea for how the close call will be roleplayed.
+    - If you're struggling to come up with a close call, feel free to ask. We'll help you choose one.
+
+#### 2.8.5 Evading infection death via logout
 
 - If your character becomes infected with the zombie infection, you are expected to play it out until they are either cured or dead.
 - If you delay the infection death by staying logged out for two (2) weeks, your character will be considered dead.
 - An exception can be made if you will be going on an extended hiatus. Submit a support ticket to inform staff so we can work something out.
+
+#### 2.8.6 Items are protected for retconned deaths
+
+- If a death is undone due to any of the scenarios listed above, the items on the corpse cannot be taken by others.
+- This doesn't necessarily mean staff will bring your items to you. Mount a recovery mission in-character!
+- If you find another player's corpse, check #retcon-logs before taking anything. 
+    - You're free to assist players in recovering their items. You may even make a friend in-character!
 
 
 ### 2.9 Mark your POIs
@@ -333,28 +362,6 @@
 - We will not award 'partial' levels in skills.
 
 
-### 2.19 Close-Call Token
-
-Players begin each season/anthology with a *"close-call token"*. Players may turn in their token to revive their character for any reason.
-
-- The token can be used once per season/anthology, per player - meaning that if you used the token on one character, it can't be used on another during the same season/anthology.
-- The token grants a revive without requiring proof of the cause of death.
-- The token does not have a time limit. It can be used at any point during the season/anthology.
-- Tokens do not carry over to following seasons/anthologies. You cannot save a token for use in a later season/anthology.
-- Players may not gift their close call token to another player.
-- The death must be roleplayed as a close call by the character - meaning your character *almost* died, but for some reason they didn't.
-- The character will receive wounds compatible with the cause of death to simulate what they went through.
-- If the token is used because of a PvP related death...
-    - The killer and the victim must agree Out-Of-Character on the use of the token revive. The killer may veto the revive, in which case the token will not be used.
-    - The victim cannot retaliate against the killer for 48 real-life hours.
-
-To use your *close-call* token, open a 📋support ticket explaining that you would like to do so. Provide the following information:
-
-- Your character's full name.
-- A description of the cause of death.
-- Your idea for how the close call will be roleplayed.
-    - If you're struggling to come up with a close call, feel free to ask. We'll help you choose one.
-
 ---------------------------------------------------------------------------------------------------------------------
 
 <figure class="thumbnails">
@@ -382,6 +389,8 @@ To use your *close-call* token, open a 📋support ticket explaining that you wo
 ### 3.4 Do not steal vehicles.
 
 - You may steal FROM a vehicle however you cannot steal THE vehicle.
+- You may not steal components from a vehicle if that theft would make the vehicle inoperable. 
+    - For example, stealing a windshield is allowable, but stealing any essential component (driver's seat, gas tank, battery, tires, brakes, or suspension) is not.
 
 ### 3.5 Do not bully a player or faction through stealing.
 
